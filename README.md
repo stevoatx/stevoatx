@@ -7,4 +7,4 @@ I'm Steven Ramirez a Data Analyst
 
 - 🤔 I’m looking for help with opportunities to grow on the Data Field.
 - 📫 How to reach me: stevenramirezdata@gmail.com.
-- ⚡ Fun fact: I take to many courses and go to the GYM very often.
+- ⚡ Fun fact: I take too many courses and go to the GYM very often.

@@ -8,12 +8,10 @@ I'm Steven Ramirez a Data Analyst
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 📫 How to reach me: stevenramirezdata@gmail.com.
+- ⚡ Fun fact: I take to many courses and go to the GYM very often.
 
 #### Top Technologies
 
